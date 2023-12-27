@@ -8,5 +8,5 @@ Key highlights:
 2.Collabrated with stakeholders to understand theor requirements and translated them into power BI solutions.
 3.Ardently involved in creating data model, implemented data transformations and calculations using DAX for accurate analysis and reporting.
 
-PBIX file link:
+
 PDF link:https://drive.google.com/file/d/1X7_f2xqUM6Ng9rD2ExyWrcLLAhkAbcMh/view?usp=drivesdk
