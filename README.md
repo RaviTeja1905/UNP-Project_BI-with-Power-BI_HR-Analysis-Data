@@ -1,4 +1,4 @@
-# UNP-Project_BI-with-Power-BI_HR-Analysis-Data
+# UNP-Project_BI-with-Power-BI_HR-Data
 
 Completed this project as part of my BI with power BI Internship with United Network of Professionals(UNP).
 
